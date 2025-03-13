@@ -1,0 +1,18 @@
+{
+    "Homepage": {
+        "title": "Startseite",
+        "description": "Beschreibung der Startseite"
+    },
+    "About": {
+        "title": "Um",
+        "description": "Zur Beschreibung"
+    },
+    "Configurator": {
+        "title": "Konfigurator",
+        "description": "Beschreibung des Konfigurator"
+    },
+    "LocaleSwitcher": {
+        "label": "Sprache ändern",
+        "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unbekannt}}"
+    }
+}
